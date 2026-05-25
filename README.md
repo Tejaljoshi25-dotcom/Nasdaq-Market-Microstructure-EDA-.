@@ -38,3 +38,6 @@ Yeh project architectural data gaps ko ek structured market intelligence mein ba
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Scaling Techniques:** Logarithmic Transformation ($Y-\text{axis} = \log_{10}$)
+
+  ## Author
+  Tejal Joshi
